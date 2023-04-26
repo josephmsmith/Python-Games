@@ -11,6 +11,7 @@ Put in your number parameters and see how long it takes you to guess the compute
 A classic. Who will win, you or the computer?
 
 ## [San Diego Adventure](https://github.com/josephmsmith/Python-Games/blob/main/san_diego_adventure.py)
+[See Version 2](https://github.com/josephmsmith/Python-Games/blob/main/sd_adv_2.py)
 Allows a user to navigate through a level formatted questionnaire with the end goal of giving them some recommendations on things to do based on where they're at in San Diego. This is the idea:
 ![sd_adventure_game_outline](https://user-images.githubusercontent.com/121319535/234330611-2c2622de-1ebb-4e6e-bd54-e5e99802b048.jpg)
 
